@@ -77,9 +77,9 @@ led to a blog post series:
 
 ## Pet projects
 
-### [Hoa](https://github.com/hoaproject),
+### [Hoa](https://github.com/hoaproject)
 
-It ia set of modular, extensible and structured set of PHP libraries; aiming at
+It is a set of modular, extensible and structured set of PHP libraries; aiming at
 being a bridge between industrial and research worlds. More than 165 millions
 installations, but projects are archived after 15 years of joy.
 
