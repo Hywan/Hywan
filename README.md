@@ -25,8 +25,8 @@ I currently work on the [Matrix Rust SDK](https://github.com/matrix-org/matrix-r
 
 [Wasmer](https://github.com/wasmerio/wasmer) is one of the major and leading WebAssembly runtime out there.
 
-I have co-founded this project, and [sadly left it](https://mnt.io/2021/10/04/
-i-leave-wasmer/). I've greatly contributed to the runtime itself:
+I have co-founded this project, and [sadly left it](https://mnt.io/2021/10/04/i-leave-wasmer/).
+I've greatly contributed to the runtime itself:
 
 * Worked on 3 compilers: Singlepass, Cranelift and LLVM,
 * Worked on the 3 engines: JIT, shared object file, static object file, and the VM core,
@@ -55,10 +55,10 @@ Notable fun projects I did there:
 [Automattic](https://automattic.com) is the company behind WordPress.com,
 Tumblr, WooCommerce, JetPack, Akismet, Simplenote, Longreads, Gravatar etc.
 
-One notable open source project I have worked on is [a parser for Gutenberg]
-(https://github.com/Hywan/gutenberg-parser-rs), in Rust, that compiles to many
-targets: WebAssembly, C, PHP, Node.js etc. It led to a blog post series: [From
-Rust to beyond](https://mnt.io/2018/08/21/from-rust-to-beyond-prelude/).
+One notable open source project I have worked on is [a parser for Gutenberg](https://github.com/Hywan/gutenberg-parser-rs),
+in Rust, that compiles to many targets: WebAssembly, C, PHP, Node.js etc. It
+led to a blog post series:
+[From Rust to beyond](https://mnt.io/2018/08/21/from-rust-to-beyond-prelude/).
 
 ### Research
 
