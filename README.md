@@ -11,7 +11,6 @@
 -  📜 Formerly [Wasmer](https://github.com/wasmerio) (WebAssembly runtime), [Automattic](https://github.com/automattic), [fruux](https://fruux.com/), [Mozilla](https://mozilla.org) (Firefox)… I like the change and new challenges
 - 🏠 Living in the stack, in a weird ABI, lost in FFI land
 - Mastodon: <a rel="me" href="https://fosstodon.org/@hywan">@hywan</a>
-- Twitter: [@mnt_io](https://twitter.com)
 
 ## Serious projects at work
 
