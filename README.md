@@ -87,7 +87,7 @@ installations, but projects are archived after 15 years of joy.
 My wife and I have built a self-sufficient house, made of straw, wood
 and earth. This repository contains all the program I'm using for
 the home automation. But the most important readings are at
-[https:// lamaisonvivante.blog](https://lamaisonvivante.blog), our blog describing our
+[lamaisonvivante.blog](https://lamaisonvivante.blog), our blog describing our
 adventure!
 
 ### [Atlasr](https://github.com/atlasr-org/atlasr)
