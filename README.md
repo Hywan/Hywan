@@ -35,15 +35,15 @@ In addition to the runtime, I have created many bindings:
 
 * [`wasmer-c-api`](https://github.com/wasmerio/wasmer/tree/master/lib/c-api) is the C embedding for Wasmer,
 * [`wasmer-python`](https://github.com/wasmerio/wasmer-python) for Python,
-* [`wasmer-go`](https://github.com/wasmerio/wasmer-go/) for Go with its post: _[Announcing the fastest WebAssembly runtime for Go: wasmer](https://mnt.io/2019/05/29/announcing-the-fastest-webassembly-runtime-for-go-wasmer/)_,
+* [`wasmer-go`](https://github.com/wasmerio/wasmer-go/) for Go with its post: _[Announcing the fastest WebAssembly runtime for Go: wasmer](https://mnt.io/articles/announcing-the-fastest-webassembly-runtime-for-go-wasmer/)_,
 * [`wasmer-ruby`](https://github.com/wasmerio/wasmer-ruby/) for Ruby,
-* [`wasmer-php`](https://github.com/wasmerio/wasmer-php) for PHP with its post: _[🐘+🦀+🕸 php-ext-wasm: Migrating from wasmi to Wasmer](https://mnt.io/2019/04/03/%f0%9f%90%98%f0%9f%a6%80%f0%9f%95%b8-php-ext-wasm-migrating-from-wasmi-to-wasmer/)_,
-* [`wasmer-java`](https://github.com/wasmerio/wasmer-java) for Java with its post: _[Announcing the first Java library to run WebAssembly: Wasmer JNI](https://mnt.io/2020/05/13/announcing-the-first-java-library-to-run-webassembly-wasmer-jni/)_,
-* [`wasmer-postgres`](https://github.com/wasmerio/wasmer-postgres) for PostgreSQL with its post: _[Announcing the first Postgres extension to run WebAssembly](https://mnt.io/2019/08/29/announcing-the-first-postgres-extension-to-run-webassembly/)_.
+* [`wasmer-php`](https://github.com/wasmerio/wasmer-php) for PHP with its post: _[🐘+🦀+🕸 php-ext-wasm: Migrating from wasmi to Wasmer](https://mnt.io/articles/elephant-crab-spider-web-php-ext-wasm-migrating-from-wasmi-to-wasmer/)_,
+* [`wasmer-java`](https://github.com/wasmerio/wasmer-java) for Java with its post: _[Announcing the first Java library to run WebAssembly: Wasmer JNI](https://mnt.io/articles/announcing-the-first-java-library-to-run-webassembly-wasmer-jni/)_,
+* [`wasmer-postgres`](https://github.com/wasmerio/wasmer-postgres) for PostgreSQL with its post: _[Announcing the first Postgres extension to run WebAssembly](https://mnt.io/articles/announcing-the-first-postgres-extension-to-run-webassembly/)_.
 
 Notable fun projects I did there:
 
-* [`sonde-rs`](https://github.com/wasmerio/sonde-rs) is a library to compile USDT probes into a Rust library,
+* [`sonde-rs`](https://github.com/Hywan/sonde-rs) is a library to compile USDT probes into a Rust library,
 * [`llvm-custom-builds`](https://github.com/wasmerio/llvm-custom-builds) is a sandbox to product custom LLVM builds for various platforms,
 * [`loupe`](https://github.com/wasmerio/loupe) is a set of tools to analyse and to profile Rust code,
 * [`inline-c-rs`](https://github.com/Hywan/inline-c-rs/), to write and to execute C code inside Rust,
