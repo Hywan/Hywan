@@ -24,7 +24,7 @@ I currently work on the [Matrix Rust SDK](https://github.com/matrix-org/matrix-r
 
 [Wasmer](https://github.com/wasmerio/wasmer) is one of the major and leading WebAssembly runtime out there.
 
-I have co-founded this project, and [sadly left it](https://mnt.io/2021/10/04/i-leave-wasmer/).
+I have co-founded this project, and [sadly left it](https://mnt.io/articles/i-leave-wasmer/).
 I've greatly contributed to the runtime itself:
 
 * Worked on 3 compilers: Singlepass, Cranelift and LLVM,
